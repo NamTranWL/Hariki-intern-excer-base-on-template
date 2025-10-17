@@ -1,7 +1,7 @@
 # Introduction
 
 Exercise Hariki with next-template-base(https://github.com/HarikiRito/next-template)
-## 7 Ex
+## 7 Ex(src/exercises)
 - Counter Exercise
 - Props Exercise
 - Shopping Cart Exercise
